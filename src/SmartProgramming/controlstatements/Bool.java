@@ -11,6 +11,7 @@ public class Bool {
     }
 
     private static void typeof(boolean a) {
+
         System.out.println("The Boolean value: " + a);
     }
 
