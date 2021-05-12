@@ -2,9 +2,7 @@ package SmartProgramming.controlstatements;
 
 public class Demo {
 
-    // Demo(int i) {
-    //     System.out.println("integer-args constructor");
-    // }
+
     Demo() {
          System.out.println("no-args constructor");
      }

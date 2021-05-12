@@ -13,6 +13,7 @@ public class VarArgsExample {
 		methodOne(10);
 		methodOne(10, 20);
 		methodOne(10, 20, 30);
+		methodOne(10,20,30,40);
 
 	}
 

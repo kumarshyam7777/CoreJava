@@ -1,9 +1,13 @@
 package SmartProgramming.controlstatements;
 
+import java.util.Scanner;
+
 public class FactorialUsingWhileLoop {
     public static void main(String[] args) {
         int i = 1;
-        int num = 5;
+        Scanner scanner = new Scanner(System.in);
+
+        int num = scanner.nextInt();
         int fact = 1;
         while(i<=num){
             System.out.println("The value of i: " + i);

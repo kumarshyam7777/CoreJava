@@ -7,6 +7,7 @@ public class InstanceVarEx {
         InstanceVarEx ine = new InstanceVarEx();
         System.out.println(ine.i);
         System.out.println(InstanceVarEx.class);
+
         ine.methodOne();
 
     }

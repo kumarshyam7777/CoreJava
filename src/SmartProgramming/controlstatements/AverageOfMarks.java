@@ -19,8 +19,6 @@ public class AverageOfMarks {
         System.out.println(result);
         float avg = result/5;
         System.out.println("The 5 subjects marks of average are: " + avg );
-
-
     }
 }
 

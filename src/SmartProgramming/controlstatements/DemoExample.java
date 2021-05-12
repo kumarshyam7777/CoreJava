@@ -9,7 +9,5 @@ public class DemoExample {
         int x = 10;
         x = 15;
         System.out.println("the value of integer x " + x);
-
-
     }
 }
